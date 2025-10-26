@@ -2,8 +2,7 @@
 This is a fully functional, responsive E-commerce web application designed to demonstrate full-stack development proficiency. 
 The platform allows users to browse products, manage a shopping cart, and complete the checkout process, while administrators can manage the product catalog and view orders.
 ​The application leverages the power of Django for secure, scalable backend development, and utilizes a modern, mobile-friendly interface built with Bootstrap.
-
-​## Core Features
+## Core Features
 
 ​Product Catalog: Browse a list of available products with detailed product pages, descriptions, and images.
 
